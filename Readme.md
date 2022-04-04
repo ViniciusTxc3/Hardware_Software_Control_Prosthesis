@@ -2,7 +2,7 @@ Trabalho desenvolvido no BioLab - UFU para o controle de uma prótese robótica.
 
 
 # Esse trabalho teve a colaboração direta de:
-Vinicius Teixeira da Costa
-Professor Alcimar Barbosa Soares
-Eber Lawrence Gouveia
-Arthur Coeolho
+* Vinicius Teixeira da Costa, 
+* Professor Alcimar Barbosa Soares, 
+* Eber Lawrence Gouveia, 
+* Arthur Coeolho
